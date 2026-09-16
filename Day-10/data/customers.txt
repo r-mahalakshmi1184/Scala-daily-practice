@@ -1,0 +1,10 @@
+C101,Arun,Chennai
+C102,Priya,Madurai
+C103,Ravi,Coimbatore
+C104,Meena,Chennai
+C105,Karthik,Madurai
+C106,Divya,Coimbatore
+C107,Surya,Chennai
+C108,Anu,Madurai
+C109,Vijay,Coimbatore
+C110,Latha,Chennai
