@@ -1,0 +1,8 @@
+order_id,customer_id,product,amount
+O001,C001,Laptop,55000
+O002,C002,Phone,30000
+O003,C001,Headphones,5000
+O004,C003,Monitor,18000
+O005,C004,Keyboard,3000
+O006,C002,Tablet,25000
+O007,C005,Mouse,1500

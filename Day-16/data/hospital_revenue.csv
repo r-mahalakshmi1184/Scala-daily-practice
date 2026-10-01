@@ -1,0 +1,13 @@
+patient_id,department,doctor,treatment,revenue
+P001,Cardiology,Dr.Arun,ECG,5000
+P002,Cardiology,Dr.Priya,Angiogram,15000
+P003,Neurology,Dr.Karthik,MRI,12000
+P004,Orthopedics,Dr.Divya,X-Ray,4000
+P005,Cardiology,Dr.Arun,Consultation,3000
+P006,Neurology,Dr.Karthik,Consultation,3500
+P007,Orthopedics,Dr.Divya,Surgery,25000
+P008,Cardiology,Dr.Priya,Surgery,30000
+P009,Neurology,Dr.Karthik,CT Scan,9000
+P010,Orthopedics,Dr.Divya,Consultation,2500
+P011,Cardiology,Dr.Arun,Stress Test,7000
+P012,Neurology,Dr.Karthik,Surgery,22000
