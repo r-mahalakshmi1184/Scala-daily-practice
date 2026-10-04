@@ -1,0 +1,3 @@
+v1
+{"path":"file:///home/maha/Scala-Spark-30-Day-Practice/Day-27/data/stream/transactions1.csv","timestamp":1790837987303,"batchId":0}
+{"path":"file:///home/maha/Scala-Spark-30-Day-Practice/Day-27/data/stream/transactions2.csv","timestamp":1790838044690,"batchId":0}

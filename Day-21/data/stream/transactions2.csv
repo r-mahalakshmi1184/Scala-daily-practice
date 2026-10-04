@@ -1,0 +1,4 @@
+transaction_id,customer_id,transaction_type,amount
+T006,C004,CREDIT,10000
+T007,C005,DEBIT,2500
+T008,C001,CREDIT,4000

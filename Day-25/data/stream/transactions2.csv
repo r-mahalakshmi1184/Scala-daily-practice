@@ -1,0 +1,4 @@
+timestamp,transaction_id,customer_id,transaction_type,amount
+2026-10-01 10:12:00,T007,C001,CREDIT,6000
+2026-10-01 10:14:00,T008,C002,DEBIT,3000
+2026-10-01 10:16:00,T009,C004,CREDIT,8000

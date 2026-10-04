@@ -1,0 +1,13 @@
+transaction_id,customer_id,product,category,amount
+T001,C001,Laptop,Electronics,55000
+T002,C002,Phone,Electronics,30000
+T003,C003,Chair,Furniture,8000
+T004,C001,Table,Furniture,12000
+T005,C004,Headphones,Electronics,5000
+T006,C002,Keyboard,Electronics,3000
+T007,C005,Sofa,Furniture,25000
+T008,C003,Monitor,Electronics,18000
+T009,C001,Desk,Furniture,15000
+T010,C004,Mouse,Electronics,1500
+T011,C005,Tablet,Electronics,25000
+T012,C002,Bed,Furniture,30000
