@@ -1,0 +1,7 @@
+product_id,product_name,brand,category,supplier
+P001,Laptop,Lenovo,Electronics,S001
+P002,T-Shirt,Nike,Fashion,S002
+P003,Smartphone,Samsung,Electronics,S003
+P004,Chair,IKEA,Home,S004
+P005,Shoes,Adidas,Fashion,S005
+P006,Table,IKEA,Home,S004
